@@ -19,7 +19,8 @@
     <main>
         <div class="header-wrapper" style="background-image: url('assets/images/bg-header-uspps-simpanan.png');">
             <h5 class="title-uspps-savings-header">SERUNYA BERHASANAH</h5>
-            <p class="description-uspps-savings-header">Menabung dengan berbagai pilihan produk berbasis syariah sesuai dengan kebutuhan anda</p>
+            <p class="description-uspps-savings-header">Menabung dengan berbagai pilihan produk berbasis syariah sesuai
+                dengan kebutuhan anda</p>
         </div>
         <div aria-label="breadcrumb">
             <ol class="breadcrumb" style="margin-bottom:0 !important;">
@@ -38,7 +39,8 @@
                             </div>
                             <p class="single-product-description text-center">Bergabung Bersama Kami dan Raih Hasanahmu
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="uspps-simpoksya.php"><button class="btn btn-more-single-product"
+                                    type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -50,7 +52,7 @@
                             </div>
                             <p class="single-product-description text-center">Rencanakan Masa Depan Pendidikan Buah Hati
                                 Anda Sedini Mungkin</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="uspps-simpanan-biaya-pendidikan.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -62,7 +64,7 @@
                             </div>
                             <p class="single-product-description text-center">Cara Mudah Berinvestasi Syariah Halal dan
                                 Berkah</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="uspps-simpanan-berjangka-hasanah.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>

@@ -38,7 +38,7 @@
                             </div>
                             <p class="single-product-description text-center">Penuhi Kebutuhan Anda Segera Bersama Kami
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-instant.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                             </div>
                             <p class="single-product-description text-center">Mengatasi Masalah Anda dengan Cepat
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-reguler.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
                                 <h5 class="single-product-title text-center">PINJAMAN ALTERNATIF</h5>
                             </div>
                             <p class="single-product-description text-center">Solusi Kebutuhan Investasi Anda</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-alternatif.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                             <p class="single-product-description text-center">Mengubah Rencana menjadi Kenyataan Bersama
                                 Kami
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-investasi.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                             </div>
                             <p class="single-product-description text-center">Saatnya Wujudkan Rencanamu bersama Kami
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-pembiayaan-bank.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                                 <h5 class="single-product-title text-center">PINJAMAN KENDARAAN BERMOTOR</h5>
                             </div>
                             <p class="single-product-description text-center">Kredit Motor Cepat Aman dan Mudah</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-kendaraan-bermotor.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                             </div>
                             <p class="single-product-description text-center">Solusi Terbaik Kredit Elektronik
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-elektronik.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             <p class="single-product-description text-center">Wujudkan Surga Kecil Anda di Koperasi
                                 Karyawan KFC
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-uang-muka-perumahan.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                                 <h5 class="single-product-title text-center">PINJAMAN LOGAM MULIA</h5>
                             </div>
                             <p class="single-product-description text-center">Banyak Emas Hari Tua Tak Cemas</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-logam-mulai.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                             </div>
                             <p class="single-product-description text-center">Raih Nikmat ber Hasanah di Tanah Suci
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-dana-talangan-umroh.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -168,7 +168,7 @@
                             <p class="single-product-description text-center">Saatnya Koperasi Pegang Kendali Berhaji
                                 Disini
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-dana-talangan-haji.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                                 <h5 class="single-product-title text-center">PEMBIAYAAN MULTIGUNA NON PAYROLL</h5>
                             </div>
                             <p class="single-product-description text-center">Cepat Mudah Amanah dan Syariah</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-pinjaman-multiguna-non-payroll.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
