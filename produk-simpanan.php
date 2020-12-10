@@ -38,7 +38,7 @@
                             </div>
                             <p class="single-product-description text-center">Bergabung Bersama Kami Mewujudkan Apapun Rencana Anda
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-simpanan-pokok-dan-wajib.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                             </div>
                             <p class="single-product-description text-center">Simpanan Terpecaya Mewujudkan Apapun Rencana Anda
                                </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-simpanan-sukarela.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                                 <h5 class="single-product-title text-center">SIMPANAN BERJANGKA</h5>
                             </div>
                             <p class="single-product-description text-center">Investasi Mudah dan Terpecaya Mewujudkan Masa Depan Terencana</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-simpanan-berjangka.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>

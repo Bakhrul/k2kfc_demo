@@ -37,7 +37,7 @@
                                 <h5 class="single-product-title text-center">SIKAYA</h5>
                             </div>
                             <p class="single-product-description text-center">Raih Hasanah Bertransaksi Syariah</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="uspps-sikaya.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                                 <h5 class="single-product-title text-center">PASTI MURAH</h5>
                             </div>
                             <p class="single-product-description text-center">Manfaatkan Kemudahan yang Hasanah</p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="uspps-pasti-murah.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>

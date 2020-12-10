@@ -1339,3 +1339,407 @@ a {
     font-size: 14px;
     font-weight: 500;
 }
+
+.image-header-product-detail {
+    width: 300px;
+    height: 130px;
+}
+
+.descrition-product-detail {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.btn-brochure-product {
+    background: white;
+    border: 0 !important;
+    outline: none !important;
+    max-width: 400px;
+    height: 250px;
+}
+
+.btn-form-product {
+    background: white;
+    border: 0 !important;
+    outline: none !important;
+    max-width: 400px;
+    height: 250px;
+}
+
+.btn-brochure-product img {
+    width: 100%;
+}
+
+.btn-form-product img {
+    width: 100%;
+}
+
+@media(max-width:575px) {
+
+    .btn-brochure-product,
+    .btn-form-product {
+        height: auto;
+    }
+
+    .image-header-product-detail {
+        width: 200px;
+        height: 100px;
+    }
+}
+
+.mt-custom-group-footer-product {
+    margin-top: 15em;
+}
+
+.descrition-product-detail .table-custom {
+    margin-left: 25px;
+}
+
+.title-header-sibidik {
+    color: white;
+    font-size: 68px;
+    position: absolute;
+    left: 55%;
+    font-weight: 600;
+    padding-top: 2em;
+    font-style: italic;
+}
+
+@media(max-width:992px) {
+    .title-header-sibidik {
+        position: static;
+        font-size: 48px;
+        padding-left: 25px;
+        padding-top: 2em;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-sibidik {
+        font-size: 38px;
+    }
+}
+
+.title-header-siberkah {
+    color: white;
+    font-size: 68px;
+    position: absolute;
+    left:30%;
+    font-weight: 600;
+    padding-top: 2em;
+    font-style: italic;
+}
+
+@media(max-width:992px) {
+    .title-header-siberkah {
+        position: static;
+        font-size: 48px;
+        padding-left: 25px;
+        padding-top: 2em;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-siberkah {
+        font-size: 38px;
+    }
+}
+
+.title-header-sirela {
+    color: white;
+    font-size: 68px;
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 25px;
+    font-style: italic;
+}
+
+@media(max-width:360px) {
+    .title-header-sirela {
+        font-size: 38px;
+    }
+}
+
+.title-header-sijangka {
+    color: black;
+    font-size: 68px;
+    font-weight: 600;
+    padding-top: 0.5em;
+    padding-left: 25px;
+    font-style: italic;
+}
+
+@media(max-width:360px) {
+    .title-header-sijangka {
+        font-size: 38px;
+    }
+}
+
+.title-header-pinjaman-instant {
+    color: black;
+    font-size: 68px;
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    word-break: break-word;
+    left: 50%;
+    color: white;
+}
+
+@media(max-width:992px) {
+    .title-header-pinjaman-instant {
+        position: static;
+        font-size: 52px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-instant {
+        font-size: 38px;
+    }
+}
+
+.title-header-pinjaman-reguler {
+    color: black;
+    font-size: 68px;
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    word-break: break-word;
+    color: white;
+}
+
+@media(max-width:992px) {
+    .title-header-pinjaman-reguler {
+        position: static;
+        font-size: 52px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-reguler {
+        font-size: 38px;
+    }
+}
+
+.title-header-pinjaman-alternatif {
+    color: black;
+    font-size: 68px;
+    font-weight: 600;
+    padding-top: 0.3em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    left: 20%;
+    word-break: break-word;
+    color: white;
+}
+
+@media(max-width:992px) {
+    .title-header-pinjaman-alternatif {
+        position: static;
+        font-size: 52px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-alternatif {
+        font-size: 38px;
+    }
+}
+
+.title-header-pinjaman-kendaraan-bermotor {
+    color: black;
+    font-size: 34px;
+    font-weight: 600;
+    padding-top: 0.5em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    left: 24%;
+    word-break: break-word;
+    color: white;
+}
+
+@media(max-width:992px) {
+    .title-header-pinjaman-kendaraan-bermotor {
+        position: static;
+        padding-top: 1em;
+        font-size: 28px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-kendaraan-bermotor {
+        font-size: 24px;
+    }
+}
+
+.title-header-pinjaman-elektronik {
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 3.1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    left: 38%;
+    word-break: break-word;
+    color: white;
+}
+
+@media(max-width:992px) {
+    .title-header-pinjaman-elektronik {
+        position: static;        
+        font-size: 28px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-elektronik {
+        font-size: 24px;
+    }
+}
+
+.title-header-pinjaman-uang-perumahan {
+    color: black;
+    font-size: 42px;
+    font-weight: 600;
+    padding-top: 5em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    word-break: break-word;
+}   
+
+@media(max-width:992px) {
+    .title-header-pinjaman-uang-perumahan {
+        position: static;        
+        font-size: 36px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-uang-perumahan {
+        font-size: 28px;
+    }
+}
+
+.title-header-pinjaman-logam-mulia {
+    color: white;
+    font-size: 52px;
+    font-weight: 600;
+    padding-top: 2.5em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    left: 62%;
+    word-break: break-word;
+}   
+
+@media(max-width:992px) {
+    .title-header-pinjaman-logam-mulia {
+        position: static;        
+        font-size: 46px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-pinjaman-logam-mulia {
+        font-size: 36px;
+    }
+}
+
+.title-header-dana-talangan-haji {
+    color: black;
+    font-size:40px;
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+    position: absolute;
+    right:5%;
+    word-break: break-word;
+}   
+
+@media(max-width:992px) {
+    .title-header-dana-talangan-haji {
+        position: static;        
+        font-size: 46px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-dana-talangan-haji {
+        font-size: 36px;
+    }
+}
+
+.title-header-non-payroll{
+    color: black;
+    font-size:40px;
+    font-weight: 600;
+    padding-top: 1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;    
+    word-break: break-word;
+}   
+
+@media(max-width:992px) {
+    .title-header-non-payroll{
+        position: static;        
+        font-size: 46px;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-non-payroll{
+        font-size: 32px;
+    }
+}
+.text-title-header-sikaya{
+    color: white;
+    font-size:52px;
+    font-weight: 600;
+    padding-top: 2.5em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;    
+    word-break: break-word;
+}
+.text-title-header-pasti-murah{
+    color: white;
+    font-size:42px;
+    font-weight: 600;
+    padding-top: 1.5em;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;    
+    position: absolute;
+    right: 0;
+    word-break: break-word;
+}
+
+@media(max-width:992px) {
+    .text-title-header-pasti-murah{
+        position: static;        
+        font-size: 38px;
+    }
+}
+
+@media(max-width:360px) {
+    .text-title-header-pasti-murah{
+        font-size: 32px;
+    }
+}
