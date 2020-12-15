@@ -1424,7 +1424,7 @@ a {
     color: white;
     font-size: 68px;
     position: absolute;
-    left:30%;
+    left: 30%;
     font-weight: 600;
     padding-top: 2em;
     font-style: italic;
@@ -1598,7 +1598,7 @@ a {
 
 @media(max-width:992px) {
     .title-header-pinjaman-elektronik {
-        position: static;        
+        position: static;
         font-size: 28px;
     }
 }
@@ -1618,11 +1618,11 @@ a {
     padding-right: 25px;
     font-style: italic;
     word-break: break-word;
-}   
+}
 
 @media(max-width:992px) {
     .title-header-pinjaman-uang-perumahan {
-        position: static;        
+        position: static;
         font-size: 36px;
     }
 }
@@ -1644,11 +1644,11 @@ a {
     position: absolute;
     left: 62%;
     word-break: break-word;
-}   
+}
 
 @media(max-width:992px) {
     .title-header-pinjaman-logam-mulia {
-        position: static;        
+        position: static;
         font-size: 46px;
     }
 }
@@ -1661,20 +1661,20 @@ a {
 
 .title-header-dana-talangan-haji {
     color: black;
-    font-size:40px;
+    font-size: 40px;
     font-weight: 600;
     padding-top: 1em;
     padding-left: 25px;
     padding-right: 25px;
     font-style: italic;
     position: absolute;
-    right:5%;
+    right: 5%;
     word-break: break-word;
-}   
+}
 
 @media(max-width:992px) {
     .title-header-dana-talangan-haji {
-        position: static;        
+        position: static;
         font-size: 46px;
     }
 }
@@ -1685,61 +1685,156 @@ a {
     }
 }
 
-.title-header-non-payroll{
+.title-header-non-payroll {
     color: black;
-    font-size:40px;
+    font-size: 40px;
     font-weight: 600;
     padding-top: 1em;
     padding-left: 25px;
     padding-right: 25px;
-    font-style: italic;    
+    font-style: italic;
     word-break: break-word;
-}   
+}
 
 @media(max-width:992px) {
-    .title-header-non-payroll{
-        position: static;        
+    .title-header-non-payroll {
+        position: static;
         font-size: 46px;
     }
 }
 
 @media(max-width:360px) {
-    .title-header-non-payroll{
+    .title-header-non-payroll {
         font-size: 32px;
     }
 }
-.text-title-header-sikaya{
+
+.text-title-header-sikaya {
     color: white;
-    font-size:52px;
+    font-size: 52px;
     font-weight: 600;
     padding-top: 2.5em;
     padding-left: 25px;
     padding-right: 25px;
-    font-style: italic;    
+    font-style: italic;
     word-break: break-word;
 }
-.text-title-header-pasti-murah{
+
+.text-title-header-pasti-murah {
     color: white;
-    font-size:42px;
+    font-size: 42px;
     font-weight: 600;
     padding-top: 1.5em;
     padding-left: 25px;
     padding-right: 25px;
-    font-style: italic;    
+    font-style: italic;
     position: absolute;
     right: 0;
     word-break: break-word;
 }
 
 @media(max-width:992px) {
-    .text-title-header-pasti-murah{
-        position: static;        
+    .text-title-header-pasti-murah {
+        position: static;
         font-size: 38px;
     }
 }
 
 @media(max-width:360px) {
-    .text-title-header-pasti-murah{
+    .text-title-header-pasti-murah {
         font-size: 32px;
+    }
+}
+
+.title-header-reservasi-tiket {
+    color: black;
+    font-size: 72px;
+    font-weight: 600;
+    padding-top: 2em;
+    padding-left: 150px;
+    padding-right: 25px;
+    font-style: italic;
+    text-align: center;
+    right: 0;
+    word-break: break-word;
+}
+
+@media(max-width:992px) {
+    .title-header-reservasi-tiket {
+        padding-top: 1em;
+        padding-left: 25px;
+        font-size: 52px;
+        text-align: left;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-reservasi-tiket {
+        font-size: 32px;
+    }
+}
+
+.title-header-payment-point {
+    color: black;
+    font-size: 42px;
+    font-weight: 600;
+    padding-top: 3em;
+    padding-left: 0px;
+    position: absolute;
+    left: 8em;
+    padding-right: 25px;
+    font-style: italic;
+    text-align: center;
+    right: 0;
+    word-break: break-word;
+}
+
+@media(max-width:992px) {
+    .title-header-payment-point {
+        position: static;
+        padding-left: 25px;
+        text-align: left;
+        font-size: 38px;
+        padding-top: 1em;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-payment-point {
+        font-size: 32px;
+    }
+}
+
+
+
+
+.title-header-agen-pulsa {
+    color: black;
+    font-size: 62px;
+    font-weight: 600;
+    padding-top: 2em;
+    padding-left: 0px;
+    position: absolute;
+    left: 8em;
+    padding-right: 25px;
+    font-style: italic;
+    text-align: center;
+    right: 0;
+    word-break: break-word;
+}
+
+@media(max-width:992px) {
+    .title-header-agen-pulsa  {
+        position: static;
+        padding-left: 25px;
+        text-align: left;
+        font-size: 46px;
+        padding-top: 1em;
+    }
+}
+
+@media(max-width:360px) {
+    .title-header-agen-pulsa  {
+        font-size: 36px;
     }
 }

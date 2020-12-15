@@ -39,7 +39,7 @@
                             <p class="single-product-description text-center">Cepat dan Aman Siap Melayani Perjalanan
                                 Anda
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-ekspansi-reservasi-tiket.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -52,7 +52,7 @@
                             <p class="single-product-description text-center">Semua Bisa di Koperasi Karyawan KFC
                                 Praktis Mudah dan Terpecaya
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-ekspansi-payment-point-online-bank.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                             <p class="single-product-description text-center">Sukses Wujudkan Impian dengan
                                 Berwirausaha<br> Yuk Daftar
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-ekspansi-agen-pulsa.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                             <p class="single-product-description text-center">Cara Cepat Pasang TV Kabel dan Nikmati
                                 Kebersamaan Keluarga Anda
                             </p>
-                            <a href="javascript:void(0)"><button class="btn btn-more-single-product" type="button">LEBIH
+                            <a href="produk-ekspansi-tv-kabel.php"><button class="btn btn-more-single-product" type="button">LEBIH
                                     LANJUT</button></a>
                         </div>
                     </div>
