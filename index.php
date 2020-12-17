@@ -47,37 +47,39 @@
         <section class="content-wrapper">
             <div class="container">
                 <div class="slide-item">
-                    <div class="item-beranda-element">
+                    <a href="produk.php" class="item-beranda-element">
+
                         <div class="item-beranda-head">
                             <div class="item-beranda-title">Produk</div>
                             <img src="assets/images/icon-beranda-1.PNG" class="item-beranda-image">
                         </div>
                         <p class="item-beranda-description">Berbagai produk terbaik untuk kebutuhan anggota K2KFC
                             se-Indonesia</p>
-                    </div>
-                    <div class="item-beranda-element">
+
+                    </a>
+                    <a href="uspps.php" class="item-beranda-element">
                         <div class="item-beranda-head">
                             <div class="item-beranda-title">USPPS</div>
                             <img src="assets/images/icon-beranda-2.PNG" class="item-beranda-image">
                         </div>
                         <p class="item-beranda-description">Solusi Pembayaran Syariah untuk anggota USPPS se-Indonesia
                         </p>
-                    </div>
-                    <div class="item-beranda-element">
+                    </a>
+                    <a href="tentang-kami.php" class="item-beranda-element">
                         <div class="item-beranda-head">
                             <div class="item-beranda-title">Tentang Kami</div>
                             <img src="assets/images/icon-beranda-3.PNG" class="item-beranda-image">
                         </div>
                         <p class="item-beranda-description">Kami adalah keluarga besar Koperasi Karyawan KFC Indonesia
                             (K2KFC)</p>
-                    </div>
-                    <div class="item-beranda-element">
+                    </a>
+                    <a href="berita.php" class="item-beranda-element">
                         <div class="item-beranda-head">
                             <div class="item-beranda-title">Berita</div>
                             <img src="assets/images/icon-beranda-4.PNG" class="item-beranda-image">
                         </div>
                         <p class="item-beranda-description">Berita mengenai Koperasi Karyawan KFC Indonesia (K2KFC)</p>
-                    </div>
+                    </a>
                 </div>
                 <h5 class="title-beranda-services">Kami berkomitmen memberikan pelayanan yang prima kepada anda </h5>
                 <div class="row mt-4">
